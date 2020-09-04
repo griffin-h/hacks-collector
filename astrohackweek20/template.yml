@@ -1,0 +1,12 @@
+title: Spectral Line Profile Fitting
+creators:
+    - Venu Kalari
+    - Griffin Hosseinzadeh
+    - Rohan Pattnaik
+    - Tomás Müller
+    - Marcin Marculewicz
+    - Yssa Camacho-Neves
+description: Improve and document an interactive script to fit line profiles to spectra in Python.
+source-url: http://github.com/griffin-h/spectrum-fitting
+live-url: https://spectrum-fitting.readthedocs.io/
+images: spectrum-fitting.gif
